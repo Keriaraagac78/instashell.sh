@@ -1,0 +1,2 @@
+# instashell.sh
+cd instashell
